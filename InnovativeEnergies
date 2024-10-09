@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Innovative Energies - African Renewable Energy Startups</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+        }
+        nav {
+            background-color: #333;
+            color: white;
+            padding: 0.5rem;
+        }
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        nav ul li {
+            display: inline;
+            margin-right: 10px;
+        }
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+        }
+        main {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Innovative Energies</h1>
+        <p>Exploring Renewable Energy Startups in Africa</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#startups">Startups</a></li>
+            <li><a href="#blog">Blog</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="home">
+            <h2>Welcome to Innovative Energies</h2>
+            <p>Discover the exciting world of renewable energy innovations in Africa.</p>
+        </section>
+
+        <section id="about">
+            <h2>About Us</h2>
+            <p>Innovative Energies is dedicated to showcasing and supporting renewable energy startups across Africa. Our mission is to promote sustainable development and foster innovation in the energy sector.</p>
+        </section>
+
+        <section id="startups">
+            <h2>Featured Startups</h2>
+            <ul>
+                <li>SolarTech Kenya - Solar power solutions</li>
+                <li>WindForce Nigeria - Wind energy innovations</li>
+                <li>BioEnergy Ghana - Biomass energy projects</li>
+            </ul>
+        </section>
+
+        <section id="blog">
+            <h2>Latest Blog Posts</h2>
+            <article>
+                <h3>The Rise of Solar Energy in East Africa</h3>
+                <p>Exploring the rapid growth of solar power adoption in countries like Kenya and Tanzania...</p>
+            </article>
+            <article>
+                <h3>Innovations in Wind Power: A West African Perspective</h3>
+                <p>How startups in Nigeria and Ghana are revolutionizing wind energy technology...</p>
+            </article>
+        </section>
+
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>Get in touch with us at info@innovativeenergies.com</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Innovative Energies. All rights reserved.</p>
+    </footer>
+</body>
+</html>
